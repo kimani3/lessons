@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+ first of all a repository is a collection of files to be tracked together. and to initialize a repository one uses the command git init . and it will create the .git file 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ staging area is where you get files from your working directory and from there you have the option of either commiting the files as one repository or individually commiting the 
